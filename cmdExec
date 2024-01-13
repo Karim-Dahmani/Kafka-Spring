@@ -1,0 +1,10 @@
+start bin\windows\kafka-console-producer.bat --broker-list localhost:9092 --topic R1
+
+start bin\windows\kafka-console-consumer.bat --broker-list localhost:9092 --topic R1
+
+--Docker---
+
+docker-compose up -d
+docker exec --interactive --tty broker kafka-console-consumer --bootstrap-server broker:9092 --topic R2
+docker exec --interactive --tty broker kafka-console-producer --bootstrap-server broker:9092 --topic R2
+

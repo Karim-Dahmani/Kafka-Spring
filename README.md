@@ -12,7 +12,7 @@
 
 
 ### Topic R2: 
-<img width="1440" alt=topicR2.png src="https://github.com/Karim-Dahmani/Kafka-Spring/blob/main/assets/img_1.PNG">
+<img width="1440" alt=topicR2.png src="https://github.com/Karim-Dahmani/Kafka-Spring/blob/main/assets/img_1.png">
 
 
 
@@ -28,9 +28,9 @@
 ### tracking stream using Smoothie.js 
 
 
-<img width="1440" alt=Capture1.png src="https://github.com/Karim-Dahmani/Kafka-Spring/blob/main/assets/img_2.PNG">
+<img width="1440" alt=Capture1.png src="https://github.com/Karim-Dahmani/Kafka-Spring/blob/main/assets/img_2.png">
 
 
 
 
-<img width="1440" alt=Capture2.png src="https://github.com/Karim-Dahmani/Kafka-Spring/blob/main/assets/img_3.PNG">
+<img width="1440" alt=Capture2.png src="https://github.com/Karim-Dahmani/Kafka-Spring/blob/main/assets/img_3.png">
